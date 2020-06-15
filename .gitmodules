@@ -1,0 +1,4 @@
+[submodule "baselines/MolGAN"]
+	path = baselines/MolGAN
+	url = https://github.com/sebp/MolGAN.git
+	branch = almgig
