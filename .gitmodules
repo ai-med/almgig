@@ -2,3 +2,7 @@
 	path = baselines/MolGAN
 	url = https://github.com/sebp/MolGAN.git
 	branch = almgig
+[submodule "baselines/CGVAE"]
+	path = baselines/CGVAE
+	url = https://github.com/sebp/constrained-graph-variational-autoencoder.git
+	branch = almgig
