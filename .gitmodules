@@ -6,3 +6,7 @@
 	path = baselines/CGVAE
 	url = https://github.com/sebp/constrained-graph-variational-autoencoder.git
 	branch = almgig
+[submodule "baselines/grammarVAE"]
+	path = baselines/grammarVAE
+	url = https://github.com/sebp/grammarVAE.git
+	branch = almgig
