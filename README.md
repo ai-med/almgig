@@ -73,7 +73,7 @@ python train_and_evaluate.py almgig --help
 ```
 
 To monitor properties of generated molecules during training,
-you can use [TensorBoard](https://www.tensorflow.org/tensorboard): 
+you can use [TensorBoard](https://www.tensorflow.org/tensorboard):
 ```bash
 tensorboard --logdir models/gdb9/
 ```
@@ -109,3 +109,8 @@ python -m gan.plotting.compare_descriptors \
 
 This will generate plots of the distribution of descriptors in the
 `outputs` directory.
+
+## Acknowledgements
+
+This project contains modified code from the GuacaMol project, see
+LICENSE.GUACAMOL for license information.
