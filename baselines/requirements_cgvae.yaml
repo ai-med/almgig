@@ -75,6 +75,6 @@ dependencies:
     - planarity==0.4.1
     - protobuf==3.7.1
     - tensorboard==1.10.0
-    - tensorflow==1.10.0
+    - tensorflow-gpu==1.10.0
 prefix: /miniconda3/envs/cgvae
 
