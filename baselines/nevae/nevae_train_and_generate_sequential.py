@@ -26,7 +26,7 @@ def main():
 
     args = sys.argv[1:]
 
-    fname = 'data/gdb9-with_hydrogen/gdb9_hydrogen_train.pkl'
+    fname = '../../data/gdb9/graphs/gdb9_with_hydrogens_train.pkl'
 
     nodes = (10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25)
     edges = (12, 14, 15, 16, 18, 19, 20, 21, 22, 23, 23, 24, 24, 25, 25, 26)
