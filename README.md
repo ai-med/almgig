@@ -154,7 +154,7 @@ at `outputs/comparison_dist_stota.pdf`.
 If you use our work, please cite us:
 ```
 @inproceedings{Poelsterl2020-ALMGIG,
- author = {Sebastian P{\"{o}}lsterl Christian Wachinger},
+ author = {P{\"{o}}lsterl, Sebastian and Wachinger, Christian},
  title = {Adversarial Learned Molecular Graph Inference and Generation},
  booktitle = {ECML PKDD},
  year = {2020},
